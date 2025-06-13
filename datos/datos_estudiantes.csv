@@ -1,0 +1,501 @@
+nombre,edad,sexo,numero_hijos,horas_trabajo,dependencia_economica,ingreso_mensual,dias_trabajo
+Estudiante_1,23,Femenino,1,40,Padres,9323,L-V
+Estudiante_2,21,Femenino,1,0,Trabajo propio,3883,No trabaja
+Estudiante_3,23,Masculino,0,15,Trabajo propio,2865,L-V
+Estudiante_4,26,Femenino,1,15,Pareja,18676,No trabaja
+Estudiante_5,21,Femenino,2,15,Padres,5800,No trabaja
+Estudiante_6,21,Masculino,0,30,Padres,8686,Fines de semana
+Estudiante_7,26,Masculino,0,0,Trabajo propio,8785,No trabaja
+Estudiante_8,24,Masculino,2,15,Trabajo propio,1755,No trabaja
+Estudiante_9,20,Masculino,0,40,Trabajo propio,5300,No trabaja
+Estudiante_10,23,Masculino,1,15,Padres,2426,Fines de semana
+Estudiante_11,20,Masculino,1,40,Padres,9809,L-V
+Estudiante_12,20,Masculino,1,0,Padres,8894,L-V
+Estudiante_13,22,Masculino,1,15,Beca,4929,L-V
+Estudiante_14,18,Femenino,2,0,Padres,9915,No trabaja
+Estudiante_15,18,Masculino,2,30,Padres,11174,L-V
+Estudiante_16,20,Femenino,0,40,Autofinanciado,20690,L-V
+Estudiante_17,18,Masculino,1,0,Padres,9102,No trabaja
+Estudiante_18,22,Femenino,1,15,Autofinanciado,4043,L-V
+Estudiante_19,19,Masculino,1,0,Trabajo propio,9519,Fines de semana
+Estudiante_20,18,Masculino,4,15,Beca,7022,No trabaja
+Estudiante_21,26,Femenino,1,15,Padres,8444,No trabaja
+Estudiante_22,21,Femenino,0,40,Padres,5356,No trabaja
+Estudiante_23,22,Femenino,0,15,Trabajo propio,14062,No trabaja
+Estudiante_24,18,Masculino,0,15,Beca,9870,Fines de semana
+Estudiante_25,20,Masculino,2,0,Trabajo propio,12196,L-V
+Estudiante_26,22,Femenino,0,0,Padres,5863,L-V
+Estudiante_27,18,Femenino,1,0,Beca,7631,L-V
+Estudiante_28,23,Femenino,0,0,Beca,5903,No trabaja
+Estudiante_29,20,Femenino,0,30,Trabajo propio,17341,L-V
+Estudiante_30,21,Masculino,2,15,Beca,5633,L-V
+Estudiante_31,20,Femenino,0,15,Beca,5286,L-V
+Estudiante_32,27,Masculino,1,0,Trabajo propio,6422,Turnos rotativos
+Estudiante_33,21,Masculino,0,30,Padres,11560,L-V
+Estudiante_34,18,Masculino,1,30,Padres,12309,L-V
+Estudiante_35,24,Femenino,0,0,Padres,7285,Fines de semana
+Estudiante_36,18,Masculino,1,30,Padres,8138,No trabaja
+Estudiante_37,22,Masculino,1,15,Padres,5286,No trabaja
+Estudiante_38,18,Femenino,0,0,Padres,11518,No trabaja
+Estudiante_39,18,Masculino,1,15,Padres,9996,L-V
+Estudiante_40,22,Femenino,1,15,Padres,13823,L-V
+Estudiante_41,24,Masculino,0,0,Beca,8361,L-V
+Estudiante_42,22,Femenino,0,40,Pareja,13060,Fines de semana
+Estudiante_43,21,Femenino,1,30,Padres,5365,L-V
+Estudiante_44,21,Masculino,1,15,Autofinanciado,10370,L-V
+Estudiante_45,18,Masculino,1,15,Trabajo propio,22040,No trabaja
+Estudiante_46,19,Masculino,3,15,Padres,6865,No trabaja
+Estudiante_47,20,Masculino,1,15,Padres,8694,L-V
+Estudiante_48,25,Femenino,0,15,Trabajo propio,16978,L-V
+Estudiante_49,23,Masculino,0,0,Beca,4745,Fines de semana
+Estudiante_50,18,Femenino,2,15,Trabajo propio,5110,No trabaja
+Estudiante_51,22,Masculino,0,30,Padres,9939,No trabaja
+Estudiante_52,20,Femenino,0,15,Padres,7352,L-V
+Estudiante_53,19,Femenino,0,0,Padres,5381,No trabaja
+Estudiante_54,23,Femenino,1,30,Padres,10644,No trabaja
+Estudiante_55,25,Femenino,0,0,Padres,10163,L-V
+Estudiante_56,24,Masculino,0,0,Padres,5251,No trabaja
+Estudiante_57,19,Masculino,0,0,Beca,6090,L-V
+Estudiante_58,21,Femenino,1,15,Pareja,14043,No trabaja
+Estudiante_59,22,Femenino,1,30,Padres,12066,No trabaja
+Estudiante_60,24,Femenino,0,15,Pareja,4041,L-V
+Estudiante_61,20,Masculino,0,0,Padres,11510,Fines de semana
+Estudiante_62,21,Femenino,0,30,Padres,8402,L-V
+Estudiante_63,18,Femenino,0,30,Padres,8238,L-V
+Estudiante_64,18,Masculino,0,30,Trabajo propio,11739,No trabaja
+Estudiante_65,24,Masculino,1,0,Autofinanciado,2813,L-V
+Estudiante_66,26,Femenino,2,15,Trabajo propio,15085,No trabaja
+Estudiante_67,21,Femenino,0,40,Padres,9662,L-V
+Estudiante_68,25,Femenino,0,30,Trabajo propio,11626,L-V
+Estudiante_69,23,Masculino,0,0,Padres,5414,Fines de semana
+Estudiante_70,20,Femenino,0,0,Beca,6102,L-V
+Estudiante_71,23,Masculino,1,15,Trabajo propio,15387,No trabaja
+Estudiante_72,26,Masculino,1,40,Padres,8090,No trabaja
+Estudiante_73,21,Masculino,1,15,Trabajo propio,11858,Fines de semana
+Estudiante_74,26,Femenino,0,15,Trabajo propio,10953,L-V
+Estudiante_75,18,Femenino,0,0,Padres,1542,L-V
+Estudiante_76,24,Femenino,1,15,Trabajo propio,9782,No trabaja
+Estudiante_77,22,Masculino,0,30,Padres,10629,L-V
+Estudiante_78,21,Femenino,0,15,Trabajo propio,16956,No trabaja
+Estudiante_79,22,Masculino,0,30,Beca,4996,Turnos rotativos
+Estudiante_80,18,Femenino,0,40,Beca,3255,L-V
+Estudiante_81,21,Masculino,0,0,Trabajo propio,22497,Fines de semana
+Estudiante_82,23,Masculino,1,15,Trabajo propio,20288,No trabaja
+Estudiante_83,26,Femenino,1,0,Padres,3315,L-V
+Estudiante_84,20,Masculino,0,30,Beca,6645,L-V
+Estudiante_85,19,Femenino,0,15,Padres,12510,L-V
+Estudiante_86,20,Femenino,1,15,Padres,7009,Fines de semana
+Estudiante_87,24,Masculino,0,30,Padres,7364,Fines de semana
+Estudiante_88,22,Femenino,1,15,Padres,6116,Fines de semana
+Estudiante_89,20,Masculino,1,40,Trabajo propio,7297,L-V
+Estudiante_90,23,Femenino,3,15,Padres,7135,No trabaja
+Estudiante_91,22,Femenino,1,0,Trabajo propio,6502,No trabaja
+Estudiante_92,24,Femenino,1,15,Padres,12255,Turnos rotativos
+Estudiante_93,19,Masculino,1,30,Padres,536,No trabaja
+Estudiante_94,21,Femenino,1,15,Trabajo propio,7705,L-V
+Estudiante_95,20,Femenino,1,30,Padres,11830,L-V
+Estudiante_96,18,Masculino,0,40,Padres,9014,L-V
+Estudiante_97,22,Masculino,0,0,Trabajo propio,8519,Turnos rotativos
+Estudiante_98,22,Femenino,0,40,Padres,4378,L-V
+Estudiante_99,22,Femenino,1,0,Beca,5877,L-V
+Estudiante_100,21,Femenino,1,0,Padres,4774,No trabaja
+Estudiante_101,18,Femenino,0,0,Padres,13029,L-V
+Estudiante_102,20,Femenino,2,30,Trabajo propio,16456,No trabaja
+Estudiante_103,20,Masculino,1,15,Padres,5163,L-V
+Estudiante_104,19,Masculino,0,0,Padres,4539,Fines de semana
+Estudiante_105,21,Masculino,3,15,Padres,11411,Fines de semana
+Estudiante_106,23,Femenino,1,15,Padres,9015,No trabaja
+Estudiante_107,27,Masculino,0,0,Beca,7000,L-V
+Estudiante_108,22,Femenino,0,30,Padres,5186,Fines de semana
+Estudiante_109,22,Femenino,0,30,Beca,4932,No trabaja
+Estudiante_110,21,Femenino,2,15,Beca,8441,No trabaja
+Estudiante_111,18,Masculino,0,40,Padres,8649,No trabaja
+Estudiante_112,21,Femenino,0,15,Pareja,26183,L-V
+Estudiante_113,22,Masculino,0,40,Padres,4922,No trabaja
+Estudiante_114,29,Femenino,1,15,Autofinanciado,3713,Turnos rotativos
+Estudiante_115,21,Masculino,2,15,Padres,11302,L-V
+Estudiante_116,22,Masculino,1,0,Trabajo propio,16329,L-V
+Estudiante_117,21,Femenino,2,30,Padres,11184,No trabaja
+Estudiante_118,18,Masculino,0,15,Padres,9596,L-V
+Estudiante_119,25,Masculino,2,0,Trabajo propio,3968,L-V
+Estudiante_120,24,Femenino,1,0,Trabajo propio,16157,L-V
+Estudiante_121,24,Femenino,1,15,Padres,9084,L-V
+Estudiante_122,19,Femenino,2,15,Padres,13283,L-V
+Estudiante_123,26,Femenino,0,30,Trabajo propio,23955,Fines de semana
+Estudiante_124,18,Femenino,1,30,Trabajo propio,7400,Fines de semana
+Estudiante_125,23,Masculino,1,0,Autofinanciado,8702,L-V
+Estudiante_126,28,Masculino,0,30,Beca,4246,No trabaja
+Estudiante_127,19,Masculino,1,0,Autofinanciado,9677,No trabaja
+Estudiante_128,20,Femenino,1,30,Trabajo propio,11727,No trabaja
+Estudiante_129,22,Femenino,1,30,Padres,7999,L-V
+Estudiante_130,20,Masculino,0,15,Padres,4454,L-V
+Estudiante_131,18,Femenino,1,30,Beca,9424,L-V
+Estudiante_132,22,Femenino,1,15,Trabajo propio,7861,Fines de semana
+Estudiante_133,18,Masculino,1,15,Padres,9348,Fines de semana
+Estudiante_134,23,Femenino,1,30,Padres,14258,Fines de semana
+Estudiante_135,19,Femenino,0,15,Autofinanciado,4460,L-V
+Estudiante_136,26,Femenino,0,15,Trabajo propio,16879,L-V
+Estudiante_137,19,Masculino,0,15,Padres,4955,No trabaja
+Estudiante_138,21,Femenino,1,30,Padres,6915,No trabaja
+Estudiante_139,24,Femenino,1,15,Padres,9249,No trabaja
+Estudiante_140,18,Femenino,0,0,Padres,7838,L-V
+Estudiante_141,22,Femenino,1,30,Padres,5053,L-V
+Estudiante_142,25,Femenino,0,30,Padres,11365,Fines de semana
+Estudiante_143,18,Femenino,0,0,Beca,2504,No trabaja
+Estudiante_144,22,Masculino,0,0,Padres,14960,L-V
+Estudiante_145,22,Femenino,1,0,Beca,6869,L-V
+Estudiante_146,24,Femenino,0,15,Beca,6950,No trabaja
+Estudiante_147,18,Masculino,2,15,Padres,8588,L-V
+Estudiante_148,18,Femenino,1,30,Trabajo propio,19468,No trabaja
+Estudiante_149,23,Femenino,0,15,Padres,5287,L-V
+Estudiante_150,22,Femenino,0,15,Beca,4408,L-V
+Estudiante_151,22,Femenino,0,15,Padres,3353,No trabaja
+Estudiante_152,23,Masculino,2,30,Trabajo propio,15283,No trabaja
+Estudiante_153,19,Femenino,0,15,Trabajo propio,15293,L-V
+Estudiante_154,22,Femenino,0,40,Padres,8773,Fines de semana
+Estudiante_155,22,Masculino,1,15,Padres,11311,L-V
+Estudiante_156,19,Femenino,1,0,Trabajo propio,13967,L-V
+Estudiante_157,27,Femenino,0,15,Trabajo propio,12515,L-V
+Estudiante_158,23,Femenino,2,15,Padres,9425,Fines de semana
+Estudiante_159,18,Femenino,3,15,Trabajo propio,10621,Fines de semana
+Estudiante_160,23,Masculino,1,0,Padres,7992,L-V
+Estudiante_161,19,Masculino,1,0,Trabajo propio,13051,L-V
+Estudiante_162,24,Masculino,0,30,Padres,6232,Fines de semana
+Estudiante_163,25,Femenino,0,0,Beca,6848,L-V
+Estudiante_164,19,Masculino,1,30,Padres,4723,L-V
+Estudiante_165,24,Masculino,2,0,Padres,10504,No trabaja
+Estudiante_166,23,Masculino,1,15,Padres,10741,Fines de semana
+Estudiante_167,24,Femenino,1,15,Padres,3362,Fines de semana
+Estudiante_168,27,Femenino,3,15,Trabajo propio,15641,No trabaja
+Estudiante_169,21,Masculino,1,15,Padres,12769,L-V
+Estudiante_170,19,Masculino,1,0,Beca,8559,L-V
+Estudiante_171,19,Femenino,0,0,Padres,9722,No trabaja
+Estudiante_172,19,Femenino,2,15,Padres,12198,Turnos rotativos
+Estudiante_173,21,Masculino,0,15,Padres,3973,No trabaja
+Estudiante_174,23,Femenino,1,40,Padres,3902,No trabaja
+Estudiante_175,22,Masculino,1,30,Padres,7553,L-V
+Estudiante_176,24,Masculino,2,30,Padres,9508,L-V
+Estudiante_177,22,Femenino,1,30,Padres,13389,No trabaja
+Estudiante_178,26,Masculino,2,15,Padres,10118,L-V
+Estudiante_179,21,Femenino,2,0,Trabajo propio,4525,L-V
+Estudiante_180,30,Masculino,0,40,Trabajo propio,12329,No trabaja
+Estudiante_181,23,Femenino,2,15,Padres,7271,No trabaja
+Estudiante_182,19,Femenino,1,15,Padres,4920,L-V
+Estudiante_183,18,Masculino,1,0,Autofinanciado,10697,No trabaja
+Estudiante_184,23,Femenino,1,15,Trabajo propio,10149,Fines de semana
+Estudiante_185,21,Masculino,0,15,Trabajo propio,26560,Fines de semana
+Estudiante_186,24,Femenino,0,30,Padres,11690,Turnos rotativos
+Estudiante_187,23,Masculino,0,15,Beca,1566,No trabaja
+Estudiante_188,21,Masculino,1,15,Beca,7005,Turnos rotativos
+Estudiante_189,19,Masculino,0,40,Trabajo propio,18128,L-V
+Estudiante_190,18,Femenino,0,0,Autofinanciado,24530,L-V
+Estudiante_191,20,Femenino,0,15,Padres,5105,No trabaja
+Estudiante_192,24,Femenino,0,0,Padres,12885,No trabaja
+Estudiante_193,22,Masculino,0,30,Beca,1013,L-V
+Estudiante_194,18,Femenino,1,40,Beca,4068,L-V
+Estudiante_195,22,Masculino,1,0,Padres,7146,No trabaja
+Estudiante_196,23,Femenino,0,30,Padres,12771,L-V
+Estudiante_197,19,Masculino,1,0,Padres,10036,No trabaja
+Estudiante_198,22,Masculino,0,40,Padres,7589,L-V
+Estudiante_199,22,Masculino,0,30,Beca,9258,L-V
+Estudiante_200,18,Femenino,0,30,Trabajo propio,17545,Fines de semana
+Estudiante_201,23,Femenino,0,0,Padres,6441,Fines de semana
+Estudiante_202,23,Masculino,0,40,Padres,6977,L-V
+Estudiante_203,25,Femenino,1,30,Padres,9284,L-V
+Estudiante_204,25,Femenino,1,15,Padres,8231,L-V
+Estudiante_205,18,Femenino,3,30,Trabajo propio,6627,Fines de semana
+Estudiante_206,19,Masculino,0,0,Autofinanciado,9551,L-V
+Estudiante_207,23,Masculino,0,30,Beca,4836,No trabaja
+Estudiante_208,23,Femenino,2,0,Padres,6218,No trabaja
+Estudiante_209,23,Masculino,1,30,Beca,3652,L-V
+Estudiante_210,33,Masculino,1,15,Beca,5604,L-V
+Estudiante_211,23,Femenino,0,0,Beca,10135,Fines de semana
+Estudiante_212,25,Femenino,0,0,Padres,7503,No trabaja
+Estudiante_213,24,Masculino,0,0,Padres,8235,L-V
+Estudiante_214,23,Masculino,0,15,Padres,1613,Fines de semana
+Estudiante_215,21,Femenino,0,15,Padres,9374,Fines de semana
+Estudiante_216,24,Masculino,1,15,Padres,5060,L-V
+Estudiante_217,19,Masculino,0,0,Padres,4540,L-V
+Estudiante_218,21,Masculino,1,0,Padres,2937,L-V
+Estudiante_219,20,Femenino,0,30,Trabajo propio,13683,Fines de semana
+Estudiante_220,22,Femenino,0,0,Padres,2618,No trabaja
+Estudiante_221,28,Masculino,0,40,Padres,3933,Fines de semana
+Estudiante_222,18,Masculino,0,30,Autofinanciado,14334,L-V
+Estudiante_223,24,Masculino,1,15,Pareja,11681,L-V
+Estudiante_224,18,Femenino,1,15,Beca,2336,No trabaja
+Estudiante_225,20,Masculino,0,30,Autofinanciado,18578,L-V
+Estudiante_226,25,Masculino,1,0,Trabajo propio,8245,L-V
+Estudiante_227,22,Femenino,1,0,Autofinanciado,4084,No trabaja
+Estudiante_228,18,Masculino,1,0,Padres,5872,L-V
+Estudiante_229,19,Femenino,0,30,Padres,13859,Turnos rotativos
+Estudiante_230,24,Masculino,2,0,Padres,6422,L-V
+Estudiante_231,19,Masculino,2,15,Padres,8533,L-V
+Estudiante_232,22,Masculino,0,40,Padres,9201,No trabaja
+Estudiante_233,22,Femenino,1,30,Trabajo propio,11743,L-V
+Estudiante_234,20,Femenino,2,15,Beca,3897,No trabaja
+Estudiante_235,28,Femenino,0,0,Trabajo propio,17090,L-V
+Estudiante_236,23,Masculino,1,30,Padres,8393,Fines de semana
+Estudiante_237,18,Femenino,1,15,Beca,8994,L-V
+Estudiante_238,22,Masculino,1,0,Trabajo propio,13267,No trabaja
+Estudiante_239,20,Masculino,1,0,Padres,7767,L-V
+Estudiante_240,24,Femenino,1,40,Trabajo propio,9048,L-V
+Estudiante_241,19,Masculino,2,15,Padres,4414,L-V
+Estudiante_242,21,Masculino,0,30,Padres,12352,Fines de semana
+Estudiante_243,23,Masculino,0,30,Pareja,8187,Fines de semana
+Estudiante_244,24,Masculino,1,15,Padres,13421,L-V
+Estudiante_245,18,Masculino,1,15,Padres,2952,L-V
+Estudiante_246,20,Femenino,0,15,Beca,9715,No trabaja
+Estudiante_247,20,Masculino,1,15,Trabajo propio,8371,No trabaja
+Estudiante_248,20,Femenino,1,15,Padres,4927,L-V
+Estudiante_249,27,Femenino,1,30,Padres,7160,L-V
+Estudiante_250,23,Masculino,0,15,Padres,5106,L-V
+Estudiante_251,18,Masculino,2,30,Trabajo propio,15909,L-V
+Estudiante_252,24,Masculino,0,15,Padres,9517,No trabaja
+Estudiante_253,28,Femenino,0,15,Padres,5815,L-V
+Estudiante_254,25,Masculino,1,15,Autofinanciado,11960,No trabaja
+Estudiante_255,18,Femenino,0,15,Trabajo propio,15592,No trabaja
+Estudiante_256,20,Masculino,0,30,Padres,14495,Fines de semana
+Estudiante_257,25,Femenino,0,0,Trabajo propio,7594,No trabaja
+Estudiante_258,19,Masculino,1,15,Trabajo propio,12491,L-V
+Estudiante_259,23,Masculino,0,0,Padres,11571,No trabaja
+Estudiante_260,24,Femenino,0,15,Padres,8637,Fines de semana
+Estudiante_261,19,Femenino,0,15,Beca,5793,L-V
+Estudiante_262,21,Masculino,0,15,Padres,11080,No trabaja
+Estudiante_263,18,Femenino,1,40,Trabajo propio,12502,L-V
+Estudiante_264,18,Femenino,1,15,Padres,11317,L-V
+Estudiante_265,21,Femenino,1,30,Padres,6308,Turnos rotativos
+Estudiante_266,18,Femenino,1,15,Padres,5551,No trabaja
+Estudiante_267,26,Masculino,0,15,Padres,8234,Fines de semana
+Estudiante_268,18,Masculino,0,0,Padres,10584,Fines de semana
+Estudiante_269,20,Masculino,2,0,Padres,8417,Fines de semana
+Estudiante_270,22,Femenino,1,15,Beca,3521,L-V
+Estudiante_271,26,Femenino,0,15,Autofinanciado,13779,L-V
+Estudiante_272,18,Masculino,0,0,Beca,10191,L-V
+Estudiante_273,25,Masculino,2,0,Beca,9188,L-V
+Estudiante_274,22,Femenino,1,0,Padres,3269,L-V
+Estudiante_275,19,Femenino,1,40,Autofinanciado,22199,L-V
+Estudiante_276,23,Femenino,0,15,Padres,5591,L-V
+Estudiante_277,22,Masculino,1,15,Autofinanciado,13143,L-V
+Estudiante_278,20,Masculino,2,0,Autofinanciado,17647,Fines de semana
+Estudiante_279,22,Masculino,0,15,Trabajo propio,5804,No trabaja
+Estudiante_280,20,Femenino,0,0,Autofinanciado,14387,Fines de semana
+Estudiante_281,22,Masculino,0,0,Trabajo propio,22855,L-V
+Estudiante_282,23,Femenino,3,15,Padres,7778,Fines de semana
+Estudiante_283,26,Masculino,1,0,Padres,7773,L-V
+Estudiante_284,18,Femenino,0,0,Trabajo propio,8087,L-V
+Estudiante_285,28,Femenino,1,0,Padres,13917,Fines de semana
+Estudiante_286,18,Femenino,2,0,Trabajo propio,7291,No trabaja
+Estudiante_287,21,Masculino,0,0,Autofinanciado,9776,Fines de semana
+Estudiante_288,23,Masculino,0,15,Padres,3842,L-V
+Estudiante_289,22,Masculino,0,30,Beca,7357,L-V
+Estudiante_290,20,Femenino,0,15,Pareja,17413,L-V
+Estudiante_291,21,Femenino,0,15,Pareja,6553,L-V
+Estudiante_292,20,Femenino,2,0,Autofinanciado,21115,L-V
+Estudiante_293,20,Femenino,0,40,Trabajo propio,15064,No trabaja
+Estudiante_294,24,Femenino,0,15,Autofinanciado,18183,No trabaja
+Estudiante_295,23,Masculino,1,0,Beca,4375,No trabaja
+Estudiante_296,19,Femenino,1,15,Padres,9516,Turnos rotativos
+Estudiante_297,24,Masculino,2,0,Padres,12467,Turnos rotativos
+Estudiante_298,22,Masculino,1,15,Trabajo propio,17341,L-V
+Estudiante_299,24,Femenino,1,15,Padres,14814,L-V
+Estudiante_300,23,Masculino,3,30,Trabajo propio,15319,L-V
+Estudiante_301,19,Masculino,0,15,Trabajo propio,4946,L-V
+Estudiante_302,20,Femenino,0,30,Padres,6786,Fines de semana
+Estudiante_303,24,Masculino,0,40,Trabajo propio,15583,Fines de semana
+Estudiante_304,23,Femenino,0,0,Beca,5901,L-V
+Estudiante_305,21,Masculino,1,0,Padres,9474,L-V
+Estudiante_306,22,Masculino,3,15,Padres,9709,No trabaja
+Estudiante_307,25,Masculino,2,15,Padres,8586,Turnos rotativos
+Estudiante_308,20,Masculino,1,15,Padres,7703,No trabaja
+Estudiante_309,23,Femenino,0,40,Pareja,15313,L-V
+Estudiante_310,21,Masculino,1,30,Padres,9307,L-V
+Estudiante_311,21,Femenino,0,15,Trabajo propio,7819,L-V
+Estudiante_312,25,Femenino,0,15,Padres,403,No trabaja
+Estudiante_313,24,Femenino,0,30,Padres,10046,Fines de semana
+Estudiante_314,24,Femenino,0,40,Beca,5679,No trabaja
+Estudiante_315,25,Femenino,0,30,Trabajo propio,5948,L-V
+Estudiante_316,22,Masculino,3,0,Padres,8378,No trabaja
+Estudiante_317,24,Masculino,0,15,Padres,7332,L-V
+Estudiante_318,21,Masculino,1,0,Padres,14140,L-V
+Estudiante_319,22,Femenino,0,0,Padres,5975,L-V
+Estudiante_320,21,Masculino,1,0,Trabajo propio,10419,No trabaja
+Estudiante_321,22,Femenino,1,15,Padres,6790,No trabaja
+Estudiante_322,23,Femenino,0,15,Padres,13974,L-V
+Estudiante_323,19,Masculino,0,0,Padres,5503,L-V
+Estudiante_324,28,Femenino,1,15,Pareja,16391,Fines de semana
+Estudiante_325,18,Masculino,0,15,Autofinanciado,14010,No trabaja
+Estudiante_326,18,Masculino,1,15,Padres,6349,L-V
+Estudiante_327,25,Femenino,2,0,Beca,6661,No trabaja
+Estudiante_328,24,Femenino,0,15,Padres,7558,No trabaja
+Estudiante_329,23,Femenino,0,30,Padres,10522,L-V
+Estudiante_330,23,Masculino,0,0,Beca,8902,L-V
+Estudiante_331,21,Masculino,0,0,Pareja,5899,No trabaja
+Estudiante_332,19,Femenino,1,15,Autofinanciado,10535,No trabaja
+Estudiante_333,22,Femenino,2,40,Trabajo propio,11764,No trabaja
+Estudiante_334,19,Femenino,1,15,Padres,8623,Fines de semana
+Estudiante_335,24,Masculino,1,15,Beca,7758,Turnos rotativos
+Estudiante_336,21,Femenino,0,15,Padres,4122,No trabaja
+Estudiante_337,19,Masculino,0,15,Trabajo propio,18490,No trabaja
+Estudiante_338,21,Masculino,1,0,Padres,6403,Fines de semana
+Estudiante_339,23,Femenino,0,15,Trabajo propio,15732,Fines de semana
+Estudiante_340,20,Masculino,0,40,Padres,6177,L-V
+Estudiante_341,19,Femenino,0,15,Padres,7768,No trabaja
+Estudiante_342,22,Masculino,2,30,Pareja,18545,No trabaja
+Estudiante_343,22,Masculino,0,30,Padres,9277,L-V
+Estudiante_344,20,Femenino,0,0,Trabajo propio,18142,L-V
+Estudiante_345,20,Femenino,0,40,Padres,9254,No trabaja
+Estudiante_346,22,Femenino,0,0,Padres,2671,L-V
+Estudiante_347,18,Femenino,0,15,Padres,11191,No trabaja
+Estudiante_348,18,Femenino,1,0,Padres,8757,L-V
+Estudiante_349,19,Femenino,1,0,Beca,3845,L-V
+Estudiante_350,21,Femenino,0,15,Padres,12153,No trabaja
+Estudiante_351,22,Masculino,0,0,Autofinanciado,7089,L-V
+Estudiante_352,26,Femenino,3,15,Trabajo propio,21194,L-V
+Estudiante_353,24,Masculino,0,15,Padres,9332,Turnos rotativos
+Estudiante_354,21,Femenino,1,0,Trabajo propio,3604,L-V
+Estudiante_355,21,Femenino,1,0,Trabajo propio,14205,No trabaja
+Estudiante_356,18,Masculino,0,15,Beca,8752,L-V
+Estudiante_357,21,Femenino,0,15,Padres,11303,No trabaja
+Estudiante_358,21,Femenino,0,30,Padres,9399,Fines de semana
+Estudiante_359,22,Masculino,1,15,Beca,6626,L-V
+Estudiante_360,19,Femenino,0,30,Pareja,12741,L-V
+Estudiante_361,23,Femenino,0,15,Beca,7374,No trabaja
+Estudiante_362,26,Masculino,0,15,Padres,12038,L-V
+Estudiante_363,21,Femenino,4,15,Beca,8933,Fines de semana
+Estudiante_364,23,Masculino,1,0,Padres,9566,Fines de semana
+Estudiante_365,24,Femenino,0,15,Padres,7706,No trabaja
+Estudiante_366,20,Femenino,1,30,Padres,14817,No trabaja
+Estudiante_367,22,Femenino,1,15,Trabajo propio,18068,Fines de semana
+Estudiante_368,22,Femenino,1,30,Padres,10667,Fines de semana
+Estudiante_369,22,Femenino,2,30,Padres,9721,No trabaja
+Estudiante_370,19,Femenino,0,30,Beca,3776,L-V
+Estudiante_371,22,Masculino,1,40,Padres,4171,L-V
+Estudiante_372,23,Femenino,1,15,Padres,4135,Fines de semana
+Estudiante_373,26,Masculino,1,15,Padres,8878,No trabaja
+Estudiante_374,24,Femenino,0,15,Pareja,6721,No trabaja
+Estudiante_375,28,Masculino,1,15,Trabajo propio,23922,L-V
+Estudiante_376,19,Masculino,0,15,Padres,8436,No trabaja
+Estudiante_377,24,Masculino,0,30,Beca,5928,L-V
+Estudiante_378,22,Femenino,2,15,Beca,4937,L-V
+Estudiante_379,28,Masculino,0,15,Padres,6157,L-V
+Estudiante_380,19,Femenino,0,0,Trabajo propio,17123,L-V
+Estudiante_381,19,Masculino,2,15,Beca,2864,L-V
+Estudiante_382,20,Masculino,0,0,Trabajo propio,14779,No trabaja
+Estudiante_383,18,Femenino,0,30,Padres,8422,L-V
+Estudiante_384,20,Femenino,2,15,Beca,6693,Fines de semana
+Estudiante_385,19,Masculino,0,0,Trabajo propio,3177,L-V
+Estudiante_386,22,Femenino,0,0,Padres,12765,No trabaja
+Estudiante_387,23,Femenino,1,15,Padres,10086,No trabaja
+Estudiante_388,27,Femenino,1,15,Padres,4576,No trabaja
+Estudiante_389,24,Masculino,0,15,Padres,7665,L-V
+Estudiante_390,20,Masculino,0,0,Beca,11023,L-V
+Estudiante_391,19,Femenino,0,15,Padres,5585,L-V
+Estudiante_392,23,Masculino,1,15,Padres,6836,No trabaja
+Estudiante_393,18,Femenino,1,15,Trabajo propio,9205,No trabaja
+Estudiante_394,27,Femenino,0,15,Padres,6759,L-V
+Estudiante_395,25,Femenino,2,15,Autofinanciado,11556,L-V
+Estudiante_396,20,Femenino,2,0,Padres,6567,No trabaja
+Estudiante_397,18,Femenino,2,40,Padres,4234,L-V
+Estudiante_398,26,Masculino,0,15,Padres,7617,No trabaja
+Estudiante_399,21,Femenino,0,15,Padres,6318,Fines de semana
+Estudiante_400,25,Masculino,1,0,Padres,788,Fines de semana
+Estudiante_401,18,Femenino,0,15,Trabajo propio,15777,No trabaja
+Estudiante_402,20,Femenino,0,0,Autofinanciado,7174,No trabaja
+Estudiante_403,22,Femenino,0,15,Padres,14158,L-V
+Estudiante_404,22,Femenino,2,40,Trabajo propio,8210,No trabaja
+Estudiante_405,20,Femenino,0,15,Trabajo propio,13518,L-V
+Estudiante_406,23,Masculino,0,0,Beca,2319,Fines de semana
+Estudiante_407,18,Masculino,2,0,Padres,11266,L-V
+Estudiante_408,21,Femenino,4,15,Padres,6871,Fines de semana
+Estudiante_409,22,Masculino,1,0,Padres,8056,L-V
+Estudiante_410,23,Masculino,2,0,Trabajo propio,10821,No trabaja
+Estudiante_411,24,Masculino,1,30,Beca,5935,L-V
+Estudiante_412,18,Masculino,3,15,Padres,4485,L-V
+Estudiante_413,18,Masculino,0,0,Padres,13087,L-V
+Estudiante_414,25,Masculino,0,40,Pareja,2708,No trabaja
+Estudiante_415,22,Masculino,2,0,Beca,7281,No trabaja
+Estudiante_416,19,Masculino,1,40,Autofinanciado,10290,Turnos rotativos
+Estudiante_417,26,Femenino,1,15,Beca,6246,No trabaja
+Estudiante_418,22,Masculino,1,30,Padres,13691,Turnos rotativos
+Estudiante_419,25,Masculino,0,15,Trabajo propio,11629,Turnos rotativos
+Estudiante_420,22,Femenino,1,30,Trabajo propio,14876,L-V
+Estudiante_421,28,Masculino,2,40,Padres,8470,L-V
+Estudiante_422,27,Femenino,0,0,Trabajo propio,8101,L-V
+Estudiante_423,21,Femenino,0,40,Trabajo propio,4780,Fines de semana
+Estudiante_424,24,Masculino,0,15,Padres,11070,No trabaja
+Estudiante_425,23,Masculino,0,15,Beca,5773,L-V
+Estudiante_426,26,Femenino,2,15,Trabajo propio,9888,L-V
+Estudiante_427,19,Femenino,0,15,Autofinanciado,7380,L-V
+Estudiante_428,24,Femenino,1,0,Padres,8525,L-V
+Estudiante_429,25,Femenino,1,15,Padres,3989,L-V
+Estudiante_430,18,Masculino,1,15,Trabajo propio,13088,L-V
+Estudiante_431,18,Femenino,0,30,Padres,6764,Fines de semana
+Estudiante_432,18,Masculino,1,30,Trabajo propio,8655,No trabaja
+Estudiante_433,21,Femenino,0,15,Beca,3401,Fines de semana
+Estudiante_434,24,Femenino,1,15,Padres,8395,L-V
+Estudiante_435,26,Femenino,1,0,Trabajo propio,11811,Fines de semana
+Estudiante_436,22,Femenino,1,0,Trabajo propio,6909,L-V
+Estudiante_437,26,Masculino,0,0,Padres,6636,L-V
+Estudiante_438,18,Masculino,0,15,Pareja,1284,No trabaja
+Estudiante_439,18,Masculino,0,0,Beca,6465,Fines de semana
+Estudiante_440,21,Masculino,2,40,Trabajo propio,13806,No trabaja
+Estudiante_441,23,Femenino,0,15,Trabajo propio,13103,Fines de semana
+Estudiante_442,21,Masculino,2,15,Padres,7344,Turnos rotativos
+Estudiante_443,18,Masculino,0,15,Pareja,14098,No trabaja
+Estudiante_444,21,Femenino,0,0,Trabajo propio,5975,No trabaja
+Estudiante_445,18,Femenino,1,15,Trabajo propio,11427,L-V
+Estudiante_446,24,Femenino,1,15,Beca,4486,No trabaja
+Estudiante_447,23,Femenino,1,15,Padres,7725,Fines de semana
+Estudiante_448,19,Masculino,1,15,Beca,1620,No trabaja
+Estudiante_449,20,Masculino,1,40,Padres,7757,No trabaja
+Estudiante_450,18,Femenino,1,30,Padres,8156,Turnos rotativos
+Estudiante_451,21,Femenino,1,15,Padres,4818,L-V
+Estudiante_452,24,Masculino,2,15,Autofinanciado,8186,Fines de semana
+Estudiante_453,19,Femenino,1,15,Beca,8389,L-V
+Estudiante_454,23,Masculino,0,0,Trabajo propio,10072,L-V
+Estudiante_455,20,Masculino,0,15,Trabajo propio,22995,L-V
+Estudiante_456,19,Femenino,0,0,Trabajo propio,16884,L-V
+Estudiante_457,21,Femenino,2,15,Pareja,14892,L-V
+Estudiante_458,18,Femenino,1,15,Padres,5848,L-V
+Estudiante_459,20,Masculino,0,0,Padres,4146,L-V
+Estudiante_460,18,Femenino,0,40,Padres,10933,No trabaja
+Estudiante_461,27,Masculino,0,40,Beca,7916,L-V
+Estudiante_462,22,Masculino,0,30,Trabajo propio,17070,No trabaja
+Estudiante_463,19,Femenino,0,15,Padres,1683,L-V
+Estudiante_464,22,Femenino,1,30,Padres,11460,No trabaja
+Estudiante_465,21,Femenino,3,0,Beca,6103,L-V
+Estudiante_466,21,Femenino,2,30,Padres,12159,L-V
+Estudiante_467,23,Femenino,0,0,Trabajo propio,19481,No trabaja
+Estudiante_468,24,Femenino,1,30,Autofinanciado,11627,No trabaja
+Estudiante_469,20,Masculino,1,0,Padres,7093,No trabaja
+Estudiante_470,20,Masculino,0,30,Padres,190,L-V
+Estudiante_471,21,Masculino,0,40,Trabajo propio,1776,Fines de semana
+Estudiante_472,18,Masculino,0,0,Beca,6458,No trabaja
+Estudiante_473,18,Femenino,0,15,Trabajo propio,21377,L-V
+Estudiante_474,26,Femenino,0,40,Autofinanciado,10356,L-V
+Estudiante_475,26,Masculino,1,15,Padres,6916,L-V
+Estudiante_476,21,Masculino,1,30,Trabajo propio,10200,Fines de semana
+Estudiante_477,23,Femenino,1,15,Trabajo propio,23424,L-V
+Estudiante_478,22,Masculino,0,15,Beca,8148,L-V
+Estudiante_479,31,Femenino,2,0,Padres,7807,No trabaja
+Estudiante_480,25,Femenino,1,0,Beca,6448,No trabaja
+Estudiante_481,21,Femenino,0,30,Trabajo propio,13773,No trabaja
+Estudiante_482,19,Femenino,0,15,Padres,4968,No trabaja
+Estudiante_483,18,Femenino,0,15,Padres,6454,L-V
+Estudiante_484,22,Masculino,1,15,Beca,7808,L-V
+Estudiante_485,19,Femenino,0,15,Padres,12590,L-V
+Estudiante_486,18,Femenino,2,30,Padres,9994,No trabaja
+Estudiante_487,20,Masculino,1,40,Padres,5226,No trabaja
+Estudiante_488,18,Femenino,1,15,Beca,5405,L-V
+Estudiante_489,27,Femenino,1,30,Trabajo propio,8352,Turnos rotativos
+Estudiante_490,24,Femenino,0,30,Beca,8623,No trabaja
+Estudiante_491,21,Femenino,0,15,Padres,3207,Fines de semana
+Estudiante_492,26,Femenino,0,40,Trabajo propio,17000,L-V
+Estudiante_493,22,Femenino,0,0,Trabajo propio,5370,L-V
+Estudiante_494,19,Femenino,1,0,Beca,6641,L-V
+Estudiante_495,26,Femenino,0,30,Pareja,19307,No trabaja
+Estudiante_496,23,Femenino,1,15,Padres,7018,No trabaja
+Estudiante_497,18,Femenino,1,30,Trabajo propio,7692,L-V
+Estudiante_498,21,Femenino,0,30,Padres,7359,L-V
+Estudiante_499,19,Masculino,0,0,Trabajo propio,19078,Fines de semana
+Estudiante_500,18,Femenino,0,30,Padres,9488,L-V
