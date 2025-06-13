@@ -74,7 +74,20 @@ plt.gca().yaxis.set_major_formatter(plt.FuncFormatter(lambda x, _: f"${x:,.0f}")
 plt.tight_layout()
 guardar_grafico('2_ingreso_por_dependencia')
 # ----------------------------------------------------------
-    
+    # De otra forma no se puede comprender
+# De ti estoy profundamente enamorado
+# Necesario ya era hacértelo saber
+# Hacerte ver que yo te amo
+#
+# Que mis sueños tú no dejas de existir
+# Que me tienes totalmente cautivado
+# Con tu forma de mirar, de sonreír
+# La voluntad sencillamente me has robado
+#
+# Necesito decírtelo, que tú sepas que te amo
+# Es preciso que entiendas que te estoy necesitando
+# Que ya nada me importa, solo estar a tu lado
+# Que mi vida ya es tuya y tú ni cuenta te habías dado 
 # ----------------------------------------------------------
 
 # --------------------------------------------
