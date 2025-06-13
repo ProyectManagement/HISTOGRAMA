@@ -74,7 +74,7 @@ plt.gca().yaxis.set_major_formatter(plt.FuncFormatter(lambda x, _: f"${x:,.0f}")
 plt.tight_layout()
 guardar_grafico('2_ingreso_por_dependencia')
 # ----------------------------------------------------------
-    # De otra forma no se puede comprender
+# De otra forma no se puede comprender
 # De ti estoy profundamente enamorado
 # Necesario ya era hacértelo saber
 # Hacerte ver que yo te amo
